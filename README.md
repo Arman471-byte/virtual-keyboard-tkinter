@@ -19,4 +19,4 @@ A GUI-based virtual keyboard built using Python and Tkinter.
    python Virtual-keyboard.py
 
 ## Preview
-![Virtual Keyboard Screenshot](screenshot.png)
+![Virtual Keyboard Screenshot](screenshot.png.png)
