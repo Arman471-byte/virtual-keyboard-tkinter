@@ -1,2 +1,10 @@
-# virtual-keyboard-tkinter
-a Virtual Keyboard application using Python 3.10 and the Tkinter library.
+# Virtual Keyboard (Python Tkinter)
+
+A GUI-based virtual keyboard built using Python and Tkinter.
+
+## Features
+- Caps Lock
+- Shift (temporary modifier)
+- Dynamic layout rebuilding
+- File saving
+- OOP architecture
